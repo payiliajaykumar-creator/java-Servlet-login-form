@@ -32,8 +32,7 @@ Clone or download this repository.
 Open Eclipse IDE and import it as an existing project (File → Import → Existing Projects into Workspace), or create a Dynamic Web Project and copy the files in.
 Make sure Apache Tomcat v10.1 is added under Window → Preferences → Server → Runtime Environments.
 Right-click the project and choose Run As → Run on Server, then select Tomcat v10.1.
-Open the login page in your browser:
-   http://localhost:8080/helloserveletapp/login.html
+
 
 (Change helloserveletapp to match your project's context path if it is different.)
 
